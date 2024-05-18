@@ -30,6 +30,8 @@ online article: [here](https://distill.pub/2020/circuits/early-vision/)
 
 [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images, Anh Nguyen et al, U. of Wyoming, 2015](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Deep_Neural_Networks_are_Easily_Fooled-High_Confidence_Predictions_for_Unrecognizable_Images_Anh_Nguyen_2015.pdf)
 
+[What Causes Polysemanticity? An Alternative Origin Story of Mixed Selectivity from Incidental Causes, Anonymous](WHAT CAUSES POLYSEMANTICITY? AN ALTERNATIVE ORIGIN STORY OF MIXED SELECTIVITY FROM INCIDENTAL CAUSES)
+
 ### Semantic Segmentation
 
 [R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
