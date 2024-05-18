@@ -17,3 +17,5 @@ online article: [here](https://distill.pub/2020/circuits/early-vision/)
 [Going deeper with convolutions, Christian Szegedy et al, Google, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/circuits/Going_deeper_with_convolutions_Szegedy_Google_2014.pdf)
 
 [Visualizing and Understanding Convolutional Networks, Matthew D. Zeiler et al, Courant Institute, NYU, 2013](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/circuits/Visualizing_and_Understanding_Convolutional_Networks_Zeller_Courant_Institute_2013.pdf)
+
+[Network Dissection: Quantifying Interpretability of Deep Visual Representations, David Bau et al, CSAIL MIT, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/circuits/Network_Dissection-Quantifying_Interpretability_of_Deep_Visual_Representations_Bau_2017.pdf)
