@@ -16,6 +16,34 @@ online article: [here](https://distill.pub/2020/circuits/zoom-in/)
 
 online article: [here](https://distill.pub/2020/circuits/early-vision/)
 
+Curve Detectors, Nick Cammarata et al, OpenAI, 2020
+
+online article: [here](https://distill.pub/2020/circuits/curve-detectors/)
+
+Naturally Occurring Equivariance in Neural Networks, Chris Olah et al, OpenAI, 2020
+
+online article: [here](https://distill.pub/2020/circuits/equivariance/)
+
+High-Low Frequency Detectors, Ludwig Schubert et al, OpenAI, 2021
+
+online article: [here](https://distill.pub/2020/circuits/frequency-edges/)
+
+Curve Circuits, Nick Cammarata et al, OpenAI, 2021
+
+online article: [here](https://distill.pub/2020/circuits/curve-circuits/)
+
+Visualizing Weights, Chelsea Voss et al, OpenAI, 2021
+
+online article: [here](https://distill.pub/2020/circuits/visualizing-weights/)
+
+Branch Specialization, Chelsea Voss et al, OpenAI, 2021
+
+online article: [here](https://distill.pub/2020/circuits/branch-specialization/)
+
+Weight Banding, Michael Petrov et al, OpenAI, 2021
+
+online article: [here](https://distill.pub/2020/circuits/weight-banding/)
+
 [Going deeper with convolutions, Christian Szegedy et al, Google, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Going_deeper_with_convolutions_Szegedy_Google_2014.pdf)
 
 [Visualizing and Understanding Convolutional Networks, Matthew D. Zeiler et al, Courant Institute, NYU, 2013](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Visualizing_and_Understanding_Convolutional_Networks_Zeller_Courant_Institute_2013.pdf)
