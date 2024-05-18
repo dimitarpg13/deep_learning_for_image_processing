@@ -8,7 +8,9 @@
 
 ### Deconstructing Convolutional Neural Networks
 
-[Feature Visualization, Chris Olah et al, OpenAI, 2017 (online article)](https://distill.pub/2017/feature-visualization/)
+Feature Visualization, Chris Olah et al, OpenAI, 2017 
+
+online article [here](https://distill.pub/2017/feature-visualization/)
 
 [Zoom In: An Introduction to Circuits, Chris Olah et al, OpenAI, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Zoom_In_An_Introduction_to_Circuits_Olah_OpenAI_2020.pdf)
 
