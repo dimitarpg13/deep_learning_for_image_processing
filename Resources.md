@@ -26,6 +26,8 @@ online article: [here](https://distill.pub/2020/circuits/early-vision/)
 
 [Feature Visualization, Chris Olah et al, OpenAI, 2017 (online article)](https://distill.pub/2017/feature-visualization/)
 
+[Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps, Karen Simonyan et al, Visual Geometry Group, U. of Oxford, 2014]()
+
 ### Semantic Segmentation
 
 [R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
