@@ -1,6 +1,8 @@
 # Resources on Deep Learning algorithms for Image Processing tasks
 
-## Books 
+## books 
+
+[Computer Vision: Algorithms and Applications, 2nd ed, Richard Szeliski, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Computer_Vision-Algorithms_and_Applications_2nd_Edition_Richard_Szeliski_2022.pdf)
 
 ## articles
 
