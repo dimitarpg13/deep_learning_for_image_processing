@@ -9,3 +9,7 @@
 [Zoom In: An Introduction to Circuits, Chris Olah et al, OpenAI, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/circuits/Zoom_In_An_Introduction_to_Circuits_Olah_OpenAI_2020.pdf)
 
 online article: [here](https://distill.pub/2020/circuits/zoom-in/)
+
+[An Overview of Early Vision in InceptionV1, Chris Olah et al, OpenAI, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/circuits/An_Overview_of_Early_Vision_in_InceptionV1_Olah_OpenAI_2020.pdf)
+
+online article: [here](https://distill.pub/2020/circuits/early-vision/)
