@@ -8,6 +8,8 @@
 
 ### Deconstructing Convolutional Neural Networks
 
+[Feature Visualization, Chris Olah et al, OpenAI, 2017 (online article)](https://distill.pub/2017/feature-visualization/)
+
 [Zoom In: An Introduction to Circuits, Chris Olah et al, OpenAI, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Zoom_In_An_Introduction_to_Circuits_Olah_OpenAI_2020.pdf)
 
 online article: [here](https://distill.pub/2020/circuits/zoom-in/)
@@ -51,8 +53,6 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 [Network Dissection: Quantifying Interpretability of Deep Visual Representations, David Bau et al, CSAIL MIT, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Network_Dissection-Quantifying_Interpretability_of_Deep_Visual_Representations_Bau_2017.pdf)
 
 [Visualizing Higher Level Features of a Deep Network, Dumitru Erhan et al, Universite de Montreal, 2009](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Visualizing_Higher-Layer_Features_of_a_Deep_Network_Erhan_2009.pdf)
-
-[Feature Visualization, Chris Olah et al, OpenAI, 2017 (online article)](https://distill.pub/2017/feature-visualization/)
 
 [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps, Karen Simonyan et al, Visual Geometry Group, U. of Oxford, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Deep_Inside_Convolutional_Networks-Visualising_Image_Classification_Models_and_Saliency_Maps_Simonyan_2014.pdf)
 
