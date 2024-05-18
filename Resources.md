@@ -22,6 +22,8 @@ online article: [here](https://distill.pub/2020/circuits/early-vision/)
 
 [Network Dissection: Quantifying Interpretability of Deep Visual Representations, David Bau et al, CSAIL MIT, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/circuits/Network_Dissection-Quantifying_Interpretability_of_Deep_Visual_Representations_Bau_2017.pdf)
 
+[Visualizing Higher Level Features of a Deep Network, Dumitru Erhan et al, Universite de Montreal, 2009](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/circuits/Visualizing_Higher-Layer_Features_of_a_Deep_Network_Erhan_2009.pdf)
+
 ### Semantic Segmentation
 
 [R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
