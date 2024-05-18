@@ -23,3 +23,5 @@ online article: [here](https://distill.pub/2020/circuits/early-vision/)
 ### Semantic Segmentation
 
 [R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
+
+[Highly Accurate Dichotomous Image Segmentation, Xuebin Qin et al, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/Highly_Accurate_Dichotomous_Image_Segmentation_Qin_2022.pdf)
