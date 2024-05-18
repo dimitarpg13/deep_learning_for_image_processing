@@ -24,7 +24,7 @@ online article: [here](https://distill.pub/2020/circuits/early-vision/)
 
 [Visualizing Higher Level Features of a Deep Network, Dumitru Erhan et al, Universite de Montreal, 2009](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/circuits/Visualizing_Higher-Layer_Features_of_a_Deep_Network_Erhan_2009.pdf)
 
-[Feature Visualization, Chris Olah, 2017](https://distill.pub/2017/feature-visualization/)
+[Feature Visualization, Chris Olah et al, OpenAI, 2017 (online article)](https://distill.pub/2017/feature-visualization/)
 
 ### Semantic Segmentation
 
