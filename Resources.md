@@ -26,7 +26,9 @@ online article: [here](https://distill.pub/2020/circuits/early-vision/)
 
 [Feature Visualization, Chris Olah et al, OpenAI, 2017 (online article)](https://distill.pub/2017/feature-visualization/)
 
-[Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps, Karen Simonyan et al, Visual Geometry Group, U. of Oxford, 2014]()
+[Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps, Karen Simonyan et al, Visual Geometry Group, U. of Oxford, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Deep_Inside_Convolutional_Networks-Visualising_Image_Classification_Models_and_Saliency_Maps_Simonyan_2014.pdf)
+
+[Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images, Anh Nguyen et al, U. of Wyoming, 2015](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Deep_Neural_Networks_are_Easily_Fooled-High_Confidence_Predictions_for_Unrecognizable_Images_Anh_Nguyen_2015.pdf)
 
 ### Semantic Segmentation
 
