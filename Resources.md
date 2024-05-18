@@ -13,3 +13,5 @@ online article: [here](https://distill.pub/2020/circuits/zoom-in/)
 [An Overview of Early Vision in InceptionV1, Chris Olah et al, OpenAI, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/circuits/An_Overview_of_Early_Vision_in_InceptionV1_Olah_OpenAI_2020.pdf)
 
 online article: [here](https://distill.pub/2020/circuits/early-vision/)
+
+[Going deeper with convolutions, Christian Szegedy et al, Google, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/circuits/Going_deeper_with_convolutions_Szegedy_Google_2014.pdf)
