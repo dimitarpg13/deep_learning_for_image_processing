@@ -68,6 +68,16 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 #### [Distiling Singular Learning Theory](https://www.lesswrong.com/s/czrXjvCLsqGepybHC)
 
+[Distilling Singular Learning Theory, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/xRWsfGfvDAjRWXcnG)
+
+[The RLCT Measures the Effective Dimension of Neural Networks, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/4eZtmwaqhAgdJQDEg)
+
+[Why Neural Networks Obey Occam's Razor, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/CZHwwDd7t9aYra5HN)
+
+[Neural Networks Are Singular, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/tZwaGp5wMQqKh3krz)
+
+[Phase Transitions in Neural Networks, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/aKBAYN5LpaQMrPqMj)
+
 ### Semantic Segmentation
 
 [R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
