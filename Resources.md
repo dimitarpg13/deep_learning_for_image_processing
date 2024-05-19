@@ -62,6 +62,8 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 [What Causes Polysemanticity? An Alternative Origin Story of Mixed Selectivity from Incidental Causes, Anonymous](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/What_Causes_Polysemanticity_An_Alternative_Origin_Story_of_Mixed_Selectivity_From_Incidental_Causes.pdf)
 
+[Why Your Neural Network is Still Singular and What You Can Do About It, Jakub Dworakowski, Jakub Dworakowski, Stanford U., 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Why_Your_Neural_Network_is_Still_Singular_and_What_You_Can_Do_About_It_Dworakowski_2019.pdf)
+
 ### Semantic Segmentation
 
 [R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
