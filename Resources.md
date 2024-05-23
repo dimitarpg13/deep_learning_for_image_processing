@@ -92,6 +92,15 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 ### Variational Autoencoders
 
+[Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
+
+[Introduction to Variational Autoencoders, Diedrik P. Kingma, Max Welling, 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/An_Introduction_to_Variational_Autoencoders_Kingma_2019.pdf)
+
+[Auto-Encoding Variational Bayes, Diedrik P. Kingma, Max Welling, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Auto-Encoding_Variational_Bayes_Kingma_2022.pdf)
+
+[The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
+
+
 ### Generative models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
