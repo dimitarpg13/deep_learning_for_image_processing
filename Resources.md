@@ -10,6 +10,8 @@
 
 [Understanding Deep Learning, Simon J. Prince, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/UnderstandingDeepLearning_13_10_23_C.pdf)
 
+(book site URL: https://udlbook.github.io/udlbook/)
+
 ## articles
 
 ### Deconstructing Convolutional Neural Networks
