@@ -80,9 +80,59 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 ### Autoencoders
 
+[Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Autoencoders.pdf)
+
+[Autoencoders, Unsupervised Learning, and Deep Architectures, Pierre Baldi, 2012](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Autoencoders_Unsupervised_Learning_and_Deep_Architectures_Baldi_2012a.pdf)
+
+[Neural Networks and Principal Component Analysis: Learning from Examples Without Local Minima, Pierre Baldi, Kurt Hornik, 1988](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Neural_Networks_and_Principal_Component_Analysis-Learning_from_Examples_Without_Local_Minima_Baldi_Hornik-89.pdf)
+
+[Neural Networks: Unleashing the Power of Latent Space Compression, Julien Pascal, Medium, 2023](https://medium.com/@julien.pascal/neural-networks-unleashing-the-power-of-latent-space-compression-2c8630f6f6cc)
+
+[The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
+
 ### Variational Autoencoders
 
+[Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
+
+[Introduction to Variational Autoencoders, Diedrik P. Kingma, Max Welling, 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/An_Introduction_to_Variational_Autoencoders_Kingma_2019.pdf)
+
+[Auto-Encoding Variational Bayes, Diedrik P. Kingma, Max Welling, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Auto-Encoding_Variational_Bayes_Kingma_2022.pdf)
+
+[The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
+
+
 ### Generative models
+
+[Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+
+[What are Diffusion Models? Lilian Weng, OpenAI, 2021 (online blog)](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
+
+[Diffusion Models for Video Generation, Lilian Weng, OpenAI, 2024 (online blog)](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
+
+[Generative Modeling by Estimating Gradients of the Data Distribution, Yang Song, Stanford, 2021 (online blog)](https://yang-song.net/blog/2021/score/)
+
+[Deep Unsupervised Learning Using Nonequilibrium Thermodynamics, Jascha Sohl-Dickstein et al, Stanford U., 2015](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Deep_Unsupervised_Learning_using_Nonequilibrium_Thermodynamics_Sohl-Dickstein_2015.pdf)
+
+[Tutorial on Diffusion Models for Imaging and Vision, Stanley Chan, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Tutorial_on_Diffusion_Models_for_Imaging_and_Vision_Chan_2024.pdf)
+
+[On Error Propagation of Diffusion Models, Y. Li, Michaela van der Schaar, U of Cambridge, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/On_Error_Propagation_of_Diffusion_Models_Li_van_der_Schaar_2024.pdf)
+
+[Understanding Diffusion Models: Unified Perspective, Calvin Luo, Google Brain, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Understanding_Diffusion_Models-A_Unified_Perspective_Luo_GoogleBrain_2022.pdf)
+
+[Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
+
+[Generative Models of Images and Neural Networks, William Smith Peebles, PhD Thesis, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Generative_Models_of_Images_and_Neural_Networks_Peebles_EECS-2023-108.pdf)
+
+[Text-to-image Diffusion Models in Generative AI: A Survey, Chenshuang Zhang, Chaoning Zhang, Mengchun Zhang, In So Kweon, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Text-to-image_Diffusion_Models_in_Generative_AI-A_Survey_Zhang_2023.pdf)
+
+[Generative Modeling by Estimating Gradients of the Data Distribution, Y. Song et al, Stanford U., 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Generative_Modeling_by_Estimating_Gradients_of_the_Data_Distribution_Song_2020.pdf)
+
+[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models, Alex Nichol et al, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/GLIDE-Towards_Photorealistic_Image_Generation_and_Editing_with_Text-Guided_Diffusion_Models_Nichol_2021.pdf)
+
+[Denoising Diffusion Probabilistic Models, J. Ho et al, UC Berkeley, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Denoising_Diffusion_Probabilistic_Models_Ho_UCBerkeley_2020.pdf)
+
+[Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
+
 
 ### Semantic Segmentation
 
