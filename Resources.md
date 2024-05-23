@@ -80,6 +80,16 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 ### Autoencoders
 
+[Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Autoencoders.pdf)
+
+[Autoencoders, Unsupervised Learning, and Deep Architectures, Pierre Baldi, 2012](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Autoencoders_Unsupervised_Learning_and_Deep_Architectures_Baldi_2012a.pdf)
+
+[Neural Networks and Principal Component Analysis: Learning from Examples Without Local Minima, Pierre Baldi, Kurt Hornik, 1988](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Neural_Networks_and_Principal_Component_Analysis-Learning_from_Examples_Without_Local_Minima_Baldi_Hornik-89.pdf)
+
+[Neural Networks: Unleashing the Power of Latent Space Compression, Julien Pascal, Medium, 2023](https://medium.com/@julien.pascal/neural-networks-unleashing-the-power-of-latent-space-compression-2c8630f6f6cc)
+
+[The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
+
 ### Variational Autoencoders
 
 ### Generative models
