@@ -107,6 +107,10 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 ### Variational Autoencoders
 
+[Intuitively Understanding Variational Autoencoders, Irhum Shafkat, Towards Data Science, 2018](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
+
+as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Intuitively_Understanding_Variational_Autoencoders_Irhum_Shafkat_TDS.pdf)
+
 [Understanding Variational Autoencoders by Joseph Rocca, Towards Data Science, Sept, 2019](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 
 as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Understanding_Variational_Autoencoders_Joseph_Rocca_TowardsDataScience.pdf)
