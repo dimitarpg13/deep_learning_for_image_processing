@@ -145,7 +145,9 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [A Tutorial on Training RNNs covering BPPT, RTRL, EKF, and the "echo state network" approach, Herber Jaeger, 2002](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/TutorialOnRNNAndBPTTJaeger2002.pdf)
 
-[Understanding LSTM: Colah's Blog, 2015](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/UnderstandingLSTMNetworks-colahsblog.pdf)
+[Understanding LSTM: Colah's Blog, 2015](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/UnderstandingLSTMNetworks-colahsblog.pdf)
 
 ### Transformers
 
@@ -159,13 +161,19 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [How Do Vision Transformers Work? N. Park et al, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/How_Do_Vision_Transformers_Work_Park_2022.pdf)
 
-[The Annotated Transformer - delving into Vaswani's paper "Attention Is All You Need", 2018](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheAnnotatedTransformer.pdf)
+[The Annotated Transformer - delving into Vaswani's paper "Attention Is All You Need", 2018](https://nlp.seas.harvard.edu/annotated-transformer/)
 
-[The Illustrated Transformer, Jay Alamar's blog, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheIllustratedTransformer%E2%80%93JayAlammar%E2%80%93Visualizing_machine_learning_one_concept_at_a_time.pdf)
+as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheAnnotatedTransformer.pdf)
+
+[The Illustrated Transformer, Jay Alamar's blog, 2021](https://jalammar.github.io/illustrated-transformer/)
+
+as pdf [here] (https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheIllustratedTransformer%E2%80%93JayAlammar%E2%80%93Visualizing_machine_learning_one_concept_at_a_time.pdf)
 
 [The Transformer - Attention Is All You Need - Michal Chromiak's blog, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheTransformer%E2%80%93Attentionisallyouneed-Micha%C5%82Chromiaksblog.pdf)
 
 [Transformers for Image Recognition at Scale, Nel Houlsby and Dirk Weissenborn, Dec 2020, blog](https://blog.research.google/2020/12/transformers-for-image-recognition-at.html)
+
+as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Transformers_for_Image_Recognition_at_Scale_blog_2020.pdf)
 
 [An Introduction to Transformers: an NLP Perspective, T. Xiao et al, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Intro-to-Transformers-Xiao-2023.pdf)
 
