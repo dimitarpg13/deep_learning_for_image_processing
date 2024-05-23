@@ -98,7 +98,7 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Understanding_Variational_Autoencoders_Joseph_Rocca_TowardsDataScience.pdf)
 
-[Variational AutoEncoders (VAE) with PyTorch, Alexander Van de Kleut, online blog](https://avandekleut.github.io/vae/)
+[Variational AutoEncoders (VAE) with PyTorch, Alexander Van de Kleut (online blog)](https://avandekleut.github.io/vae/)
 
 [Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
 
