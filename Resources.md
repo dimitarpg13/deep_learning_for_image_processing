@@ -110,7 +110,27 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
 
+### LSTM, RNNs and Seq2Seq Modeling
+
+[Long Short-Term Memory, Sepp Hochreiter et al., 1997](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/LongShortTermMemory.pdf)
+
+[LSTM Can Solve Hard Long Time Lag Problems, Sepp Hochreiter, Juergen Schmidthhuber, NIPS, 1996](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/NIPS-1996-lstm-can-solve-hard-long-time-lag-problems-Paper_Hochreiter.pdf)
+
+[Recurent Models of Visual Attention, Volodimir Mnih et al, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/Recurrent_Models_of_Visual_Attention_Mnih_2014.pdf)
+
+[Sequence to Sequence Learning with Neural Networks, Sutskever et al, Google Research, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/SequencetoSequenceLearningwithNeuralNetworksSutsekver2014.pdf)
+
+[The Unreasonable Effectiveness of Recurrent Neural Networks, Andrej Karpathy's blog, May 2015](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/TheUnreasonableEffectivenessofRecurrentNeuralNetworksAndrejKarpathyBlog.pdf)
+
+[Understanding LSTM: a tutorial into Long Short-Term Memory, R. Staudemeyer et al., 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/TutorialOnLongShortTermMemory2019.pdf)
+
+[A Tutorial on Training RNNs covering BPPT, RTRL, EKF, and the "echo state network" approach, Herber Jaeger, 2002](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/TutorialOnRNNAndBPTTJaeger2002.pdf)
+
+[Understanding LSTM: Colah's Blog, 2015](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/UnderstandingLSTMNetworks-colahsblog.pdf)
+
 ### Transformers
+
+[Transformers for Image Recognition at Scale, Nel Houlsby and Dirk Weissenborn, Dec 2020, blog](https://blog.research.google/2020/12/transformers-for-image-recognition-at.html)
 
 ### Generative models
 
