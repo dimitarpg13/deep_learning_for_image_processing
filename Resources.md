@@ -148,7 +148,7 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
 
-[Masked Diffusion Transformer is a Strong Image Synthesizer, S. Gao et al Sea AI Lab, Nankai U., 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Gao_Masked_Diffusion_Transformer_is_a_Strong_Image_Synthesizer_ICCV_2023_paper.pdf)
+[Masked Diffusion Transformer is a Strong Image Synthesizer, S. Gao et al Sea AI Lab, Nankai U., 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/diffusion_transformer/Masked_Diffusion_Transformer_is_a_Strong_Image_Synthesizer_Gao_ICCV_2023.pdf)
 
 [DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation, S. Mo et al, Huawei, NeurIPS 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/diffusion_transformer/DiT-3D-Exploring_Plain_Diffusion_Transformers_for_3D_Shape_Generation_Mo_NeurIPS_2023.pdf)
 
