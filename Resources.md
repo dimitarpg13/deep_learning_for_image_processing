@@ -78,6 +78,12 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 [Phase Transitions in Neural Networks, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/aKBAYN5LpaQMrPqMj)
 
+### Autoencoders
+
+### Variational Autoencoders
+
+### Generative models
+
 ### Semantic Segmentation
 
 [R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
