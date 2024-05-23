@@ -1,4 +1,4 @@
-# Deep Learning Architectures and Algorithms for solving Image Processing problems
+# Deep Learning Architectures and Algorithms for solving Image Processing problems and related Generative Tasks
 
 this repo is a work in progress.
 
