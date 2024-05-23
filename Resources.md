@@ -14,7 +14,11 @@
 
 ## articles
 
-### Deconstructing Convolutional Neural Networks
+### CNNs
+
+[ImageNet Classification with Deep Convolutional Neural Nets, Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton, NIPS, 2012](https://github.com/dimitarpg13/deep_learning_for_image_processing/tree/main/literature/articles/cnn)
+
+#### Deconstructing Convolutional Neural Networks
 
 Feature Visualization, Chris Olah et al, OpenAI, 2017 
 
@@ -70,11 +74,11 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 [What Causes Polysemanticity? An Alternative Origin Story of Mixed Selectivity from Incidental Causes, Anonymous](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/What_Causes_Polysemanticity_An_Alternative_Origin_Story_of_Mixed_Selectivity_From_Incidental_Causes.pdf)
 
-### Singular Neural Networks
+#### Singular Neural Networks
 
 [Why Your Neural Network is Still Singular and What You Can Do About It, Jakub Dworakowski, Pablo Rodriguez Bertorello, Stanford U., 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Why_Your_Neural_Network_is_Still_Singular_and_What_You_Can_Do_About_It_Dworakowski_2019.pdf)
 
-#### [Distiling Singular Learning Theory](https://www.lesswrong.com/s/czrXjvCLsqGepybHC)
+##### [Distiling Singular Learning Theory](https://www.lesswrong.com/s/czrXjvCLsqGepybHC)
 
 [Distilling Singular Learning Theory, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/xRWsfGfvDAjRWXcnG)
 
@@ -85,6 +89,7 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 [Neural Networks Are Singular, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/tZwaGp5wMQqKh3krz)
 
 [Phase Transitions in Neural Networks, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/aKBAYN5LpaQMrPqMj)
+
 
 ### Autoencoders
 
