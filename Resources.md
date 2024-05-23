@@ -80,6 +80,8 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 ### Autoencoders
 
+[Neural Networks: Unleashing the Power of Latent Space Compression by Julien Pascal, May 2023, Medium](https://medium.com/@julien.pascal/neural-networks-unleashing-the-power-of-latent-space-compression-2c8630f6f6cc)
+
 [Autoencoders, Dor Bank, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Autoencoders.pdf)
 
 [Autoencoders, Unsupervised Learning, and Deep Architectures, Pierre Baldi, 2012](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Autoencoders_Unsupervised_Learning_and_Deep_Architectures_Baldi_2012a.pdf)
@@ -92,13 +94,18 @@ online article: [here](https://distill.pub/2020/circuits/weight-banding/)
 
 ### Variational Autoencoders
 
+[Understanding Variational Autoencoders by Joseph Rocca, Sept, 2019](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+
 [Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
+
+[Convolutional Variational Autoencoder with tensorflow, online Tensorflow page](https://www.tensorflow.org/tutorials/generative/cvae)
 
 [Introduction to Variational Autoencoders, Diedrik P. Kingma, Max Welling, 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/An_Introduction_to_Variational_Autoencoders_Kingma_2019.pdf)
 
 [Auto-Encoding Variational Bayes, Diedrik P. Kingma, Max Welling, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Auto-Encoding_Variational_Bayes_Kingma_2022.pdf)
 
 [The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
+
 
 
 ### Generative models
