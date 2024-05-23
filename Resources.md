@@ -20,45 +20,31 @@
 
 #### Deconstructing Convolutional Neural Networks
 
-Feature Visualization, Chris Olah et al, OpenAI, 2017 
+[Feature Visualization, Chris Olah et al, OpenAI, 2017](https://distill.pub/2017/feature-visualization/) 
 
-online article [here](https://distill.pub/2017/feature-visualization/)
+[Zoom In: An Introduction to Circuits, Chris Olah et al, OpenAI, 2020](https://distill.pub/2020/circuits/zoom-in/)
 
-[Zoom In: An Introduction to Circuits, Chris Olah et al, OpenAI, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Zoom_In_An_Introduction_to_Circuits_Olah_OpenAI_2020.pdf)
+as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Zoom_In_An_Introduction_to_Circuits_Olah_OpenAI_2020.pdf)
 
-online article: [here](https://distill.pub/2020/circuits/zoom-in/)
+[An Overview of Early Vision in InceptionV1, Chris Olah et al, OpenAI, 2020](https://distill.pub/2020/circuits/early-vision/)
 
-[An Overview of Early Vision in InceptionV1, Chris Olah et al, OpenAI, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/An_Overview_of_Early_Vision_in_InceptionV1_Olah_OpenAI_2020.pdf)
+as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/An_Overview_of_Early_Vision_in_InceptionV1_Olah_OpenAI_2020.pdf)
 
-online article: [here](https://distill.pub/2020/circuits/early-vision/)
+[Curve Detectors, Nick Cammarata et al, OpenAI, 2020](https://distill.pub/2020/circuits/curve-detectors/)
 
-Curve Detectors, Nick Cammarata et al, OpenAI, 2020
+as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Circuits_Curve_Detectors_Olah_OpenAI_2020.pdf)
 
-online article: [here](https://distill.pub/2020/circuits/curve-detectors/)
+[Naturally Occurring Equivariance in Neural Networks, Chris Olah et al, OpenAI, 2020](https://distill.pub/2020/circuits/equivariance/)
 
-Naturally Occurring Equivariance in Neural Networks, Chris Olah et al, OpenAI, 2020
+[High-Low Frequency Detectors, Ludwig Schubert et al, OpenAI, 2021](https://distill.pub/2020/circuits/frequency-edges/)
 
-online article: [here](https://distill.pub/2020/circuits/equivariance/)
+[Curve Circuits, Nick Cammarata et al, OpenAI, 2021](https://distill.pub/2020/circuits/curve-circuits/)
 
-High-Low Frequency Detectors, Ludwig Schubert et al, OpenAI, 2021
+[Visualizing Weights, Chelsea Voss et al, OpenAI, 2021](https://distill.pub/2020/circuits/visualizing-weights/)
 
-online article: [here](https://distill.pub/2020/circuits/frequency-edges/)
+[Branch Specialization, Chelsea Voss et al, OpenAI, 2021](https://distill.pub/2020/circuits/branch-specialization/)
 
-Curve Circuits, Nick Cammarata et al, OpenAI, 2021
-
-online article: [here](https://distill.pub/2020/circuits/curve-circuits/)
-
-Visualizing Weights, Chelsea Voss et al, OpenAI, 2021
-
-online article: [here](https://distill.pub/2020/circuits/visualizing-weights/)
-
-Branch Specialization, Chelsea Voss et al, OpenAI, 2021
-
-online article: [here](https://distill.pub/2020/circuits/branch-specialization/)
-
-Weight Banding, Michael Petrov et al, OpenAI, 2021
-
-online article: [here](https://distill.pub/2020/circuits/weight-banding/)
+[Weight Banding, Michael Petrov et al, OpenAI, 2021](https://distill.pub/2020/circuits/weight-banding/)
 
 [Going deeper with convolutions, Christian Szegedy et al, Google, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Going_deeper_with_convolutions_Szegedy_Google_2014.pdf)
 
