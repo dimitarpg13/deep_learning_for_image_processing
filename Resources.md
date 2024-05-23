@@ -110,7 +110,7 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
 
-
+### Transformers
 
 ### Generative models
 
