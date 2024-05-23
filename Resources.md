@@ -120,6 +120,8 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [Sequence to Sequence Learning with Neural Networks, Sutskever et al, Google Research, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/SequencetoSequenceLearningwithNeuralNetworksSutsekver2014.pdf)
 
+[Generating Sequences with Recurrent Neural Networks, Alex Graves, UofToronto, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/Generating_Sequences_With_Recurrent_Neural_Networks_Graves_2014.pdf)
+
 [The Unreasonable Effectiveness of Recurrent Neural Networks, Andrej Karpathy's blog, May 2015](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/TheUnreasonableEffectivenessofRecurrentNeuralNetworksAndrejKarpathyBlog.pdf)
 
 [Understanding LSTM: a tutorial into Long Short-Term Memory, R. Staudemeyer et al., 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/TutorialOnLongShortTermMemory2019.pdf)
@@ -130,7 +132,27 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 ### Transformers
 
+[A Mathematical Framework for Transformer Circuits, Nelson Elhage et al, Anthropic, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/A_Mathematical_Framework_for_Transformer_Circuits_Elhage_Anthropic_2021.pdf)
+
+[An Image is Worth 16X16 Wwords: Transformers for Image Recognition at Scale, A. Dosovitskiy, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/An_Image_is_Worth_16X16_words-Transformers_for_Image_Recognition_at_Scale_Dosovitskiy_2021.pdf)
+
+[Attention Is All You Need, Vaswani et al, Google Brain, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Attention-is-all-you-need-NIPS-2017.pdf)
+
+[Do Vision Transformers See Like Convolutional Neural Networks? M. Raghu, Google Brain, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Do_Vision_Transformers_See_Like_Convolutional_Neural_Networks_Raghu_GoogleBrain_2021.pdf)
+
+[How Do Vision Transformers Work? N. Park et al, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/How_Do_Vision_Transformers_Work_Park_2022.pdf)
+
+[The Annotated Transformer - delving into Vaswani's paper "Attention Is All You Need", 2018](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheAnnotatedTransformer.pdf)
+
+[The Illustrated Transformer, Jay Alamar's blog, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheIllustratedTransformer%E2%80%93JayAlammar%E2%80%93Visualizing_machine_learning_one_concept_at_a_time.pdf)
+
+[The Transformer - Attention Is All You Need - Michal Chromiak's blog, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheTransformer%E2%80%93Attentionisallyouneed-Micha%C5%82Chromiaksblog.pdf)
+
 [Transformers for Image Recognition at Scale, Nel Houlsby and Dirk Weissenborn, Dec 2020, blog](https://blog.research.google/2020/12/transformers-for-image-recognition-at.html)
+
+[An Introduction to Transformers: an NLP Perspective, T. Xiao et al, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Intro-to-Transformers-Xiao-2023.pdf)
+
+[Transforming Auto-encoders, G. Hinton, A. Krizhevsky, et al., 2011](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TransformingAutoencodersHinton.pdf)
 
 ### Generative models
 
