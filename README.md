@@ -1,4 +1,4 @@
-# Deep Learning for solving Image Processing problems and related Generative Tasks
+# Deep Learning for solving Image Processing problems and Generative Tasks
 
 this repo is a work in progress.
 
