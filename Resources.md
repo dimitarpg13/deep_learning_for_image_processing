@@ -107,6 +107,8 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
 
+[Lecture 9 on Variational Autoencoders from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture9-vae-ink.pdf)
+
 [Convolutional Variational Autoencoder with tensorflow, online Tensorflow page](https://www.tensorflow.org/tutorials/generative/cvae)
 
 [Introduction to Variational Autoencoders, Diedrik P. Kingma, Max Welling, 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/An_Introduction_to_Variational_Autoencoders_Kingma_2019.pdf)
@@ -166,6 +168,8 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 [An Introduction to Transformers: an NLP Perspective, T. Xiao et al, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Intro-to-Transformers-Xiao-2023.pdf)
 
 [Transforming Auto-encoders, G. Hinton, A. Krizhevsky, et al., 2011](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TransformingAutoencodersHinton.pdf)
+
+[Lecture 2 on Transformersw from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture2-transformer-ink.pdf)
 
 ### Variational Inference
 
