@@ -150,7 +150,7 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Transforming Auto-encoders, G. Hinton, A. Krizhevsky, et al., 2011](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TransformingAutoencodersHinton.pdf)
 
-[Lecture 2 on Transformersw from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture2-transformer-ink.pdf)
+[Lecture 2 on Transformers from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture2-transformer-ink.pdf)
 
 ### Generative models
 
