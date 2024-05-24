@@ -184,7 +184,7 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
 
-[Lecture 7 on Transformersw from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture7-diffusion-ink.pdf)
+[Lecture 7 on Transformers from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture7-diffusion-ink.pdf)
 
 ### Variational Inference
 
@@ -246,3 +246,7 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 [CS231n: Convolutional Neural Networks for Image Recognition: Stanford CS class](https://cs231n.github.io/)
 
 github repo: https://github.com/cs231n/cs231n.github.io
+
+[CMU CS 10-423 GenAI class taught in Jan-Feb 2024](https://www.cs.cmu.edu/~mgormley/courses/10423/)
+
+slides for the class: [slides](https://www.cs.cmu.edu/~mgormley/courses/10423//slides/)
