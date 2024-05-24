@@ -91,6 +91,8 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
 
+[Tutorial On Principal Component Analysis, Jonathon Shlens, Google Research, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Tutorial_on_Principal_Component_Analysis_Shlens_Google_2014.pdf)
+
 ### Variational Autoencoders
 
 [Intuitively Understanding Variational Autoencoders, Irhum Shafkat, Towards Data Science, 2018](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
