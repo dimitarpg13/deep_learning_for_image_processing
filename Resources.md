@@ -194,7 +194,11 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Automatic Variational Inference in Stan, Alp Kucukelbir et al, Columbia U., 2018 ](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Automatic_Variational_Inference_in_Stan_Kucukelbir_Columbia_2015.pdf)
 
-[Lecture 8 Diffusion Modeling + Variational Inference from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture8-diffusion-ink.pdf)
+[Automatic Differentiation Variational Inference, Alp Kucukelbir et al, Columbia U., 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Automatic_Differentiation_Variational_Inference_Kucukelbir_Columbia_2017.pdf)
+
+[Lecture 8 Diffusion Modeling + Variational Inference from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture8-diffusion-ink.pdf)
+
+Python library containing Variational Inference algorithms such as ADVI : [PyMC](https://github.com/pymc-devs/pymc/tree/main)
 
 ### Variational Autoencoders
 
