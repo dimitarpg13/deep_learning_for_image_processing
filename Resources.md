@@ -14,6 +14,12 @@
 
 ## articles
 
+### Semantic Segmentation
+
+[R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
+
+[Highly Accurate Dichotomous Image Segmentation, Xuebin Qin et al, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/Highly_Accurate_Dichotomous_Image_Segmentation_Qin_2022.pdf)
+
 ### CNNs
 
 [ImageNet Classification with Deep Convolutional Neural Nets, Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton, NIPS, 2012](https://github.com/dimitarpg13/deep_learning_for_image_processing/tree/main/literature/articles/cnn)
@@ -76,7 +82,6 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Phase Transitions in Neural Networks, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/aKBAYN5LpaQMrPqMj)
 
-
 ### Autoencoders
 
 [Neural Networks: Unleashing the Power of Latent Space Compression by Julien Pascal, May 2023, Medium](https://medium.com/@julien.pascal/neural-networks-unleashing-the-power-of-latent-space-compression-2c8630f6f6cc)
@@ -92,30 +97,6 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 [The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
 
 [Tutorial On Principal Component Analysis, Jonathon Shlens, Google Research, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Tutorial_on_Principal_Component_Analysis_Shlens_Google_2014.pdf)
-
-### Variational Autoencoders
-
-[Intuitively Understanding Variational Autoencoders, Irhum Shafkat, Towards Data Science, 2018](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
-
-as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Intuitively_Understanding_Variational_Autoencoders_Irhum_Shafkat_TDS.pdf)
-
-[Understanding Variational Autoencoders by Joseph Rocca, Towards Data Science, Sept, 2019](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
-
-as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Understanding_Variational_Autoencoders_Joseph_Rocca_TowardsDataScience.pdf)
-
-[Variational AutoEncoders (VAE) with PyTorch, Alexander Van de Kleut (online blog)](https://avandekleut.github.io/vae/)
-
-[Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
-
-[Lecture 9 on Variational Autoencoders from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture9-vae-ink.pdf)
-
-[Convolutional Variational Autoencoder with tensorflow, online Tensorflow page](https://www.tensorflow.org/tutorials/generative/cvae)
-
-[Introduction to Variational Autoencoders, Diedrik P. Kingma, Max Welling, 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/An_Introduction_to_Variational_Autoencoders_Kingma_2019.pdf)
-
-[Auto-Encoding Variational Bayes, Diedrik P. Kingma, Max Welling, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Auto-Encoding_Variational_Bayes_Kingma_2022.pdf)
-
-[The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
 
 ### LSTM, RNNs and Seq2Seq Modeling
 
@@ -171,16 +152,6 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Lecture 2 on Transformersw from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture2-transformer-ink.pdf)
 
-### Variational Inference
-
-[Variational Inference: Foundations and Innovations, David Blei, Columbia U., slides, 2018](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Blei_Variational_Inference_tutorial_slides_2018.pdf)
-
-[Variational Inference: A Review for Statisticians, David Blei et al, Columbia U., 2018](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Variational_Inference-A_Review_for_Statisticians_David_Blei_2018.pdf)
-
-[Automatic Variational Inference in Stan, Alp Kucukelbir et al, Columbia U., 2018 ](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Automatic_Variational_Inference_in_Stan_Kucukelbir_Columbia_2015.pdf)
-
-[Lecture 8 Diffusion Modeling + Variational Inference from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture8-diffusion-ink.pdf)
-
 ### Generative models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
@@ -213,6 +184,43 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
 
+[Lecture 7 on Transformersw from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture7-diffusion-ink.pdf)
+
+### Variational Inference
+
+[Variational Inference: Foundations and Innovations, David Blei, Columbia U., slides, 2018](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Blei_Variational_Inference_tutorial_slides_2018.pdf)
+
+[Variational Inference: A Review for Statisticians, David Blei et al, Columbia U., 2018](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Variational_Inference-A_Review_for_Statisticians_David_Blei_2018.pdf)
+
+[Automatic Variational Inference in Stan, Alp Kucukelbir et al, Columbia U., 2018 ](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Automatic_Variational_Inference_in_Stan_Kucukelbir_Columbia_2015.pdf)
+
+[Lecture 8 Diffusion Modeling + Variational Inference from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture8-diffusion-ink.pdf)
+
+### Variational Autoencoders
+
+[Intuitively Understanding Variational Autoencoders, Irhum Shafkat, Towards Data Science, 2018](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
+
+as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Intuitively_Understanding_Variational_Autoencoders_Irhum_Shafkat_TDS.pdf)
+
+[Understanding Variational Autoencoders by Joseph Rocca, Towards Data Science, Sept, 2019](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+
+as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Understanding_Variational_Autoencoders_Joseph_Rocca_TowardsDataScience.pdf)
+
+[Variational AutoEncoders (VAE) with PyTorch, Alexander Van de Kleut (online blog)](https://avandekleut.github.io/vae/)
+
+[Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
+
+[Lecture 9 on Variational Autoencoders from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture9-vae-ink.pdf)
+
+[Convolutional Variational Autoencoder with tensorflow, online Tensorflow page](https://www.tensorflow.org/tutorials/generative/cvae)
+
+[Introduction to Variational Autoencoders, Diedrik P. Kingma, Max Welling, 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/An_Introduction_to_Variational_Autoencoders_Kingma_2019.pdf)
+
+[Auto-Encoding Variational Bayes, Diedrik P. Kingma, Max Welling, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Auto-Encoding_Variational_Bayes_Kingma_2022.pdf)
+
+[The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
+
+
 ### The Diffusion Transformer
 
 [Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
@@ -228,12 +236,6 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 [Diffusion Transformer Explained: Exploring the architecture that brought transformers into image generation, Mario Larcher, Feb 28, 2024](https://towardsdatascience.com/diffusion-transformer-explained-e603c4770f7e)
 
 [Diffusion Transformer (DiT) Models: A Beginner’s Guide, Akruti Acharya, March 18, 2024](https://encord.com/blog/diffusion-models-with-transformers/)
-
-### Semantic Segmentation
-
-[R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
-
-[Highly Accurate Dichotomous Image Segmentation, Xuebin Qin et al, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/Highly_Accurate_Dichotomous_Image_Segmentation_Qin_2022.pdf)
 
 ### classes, class notes, tutorials and videos
 
