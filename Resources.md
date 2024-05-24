@@ -210,8 +210,6 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
 
-[Lecture 9 on Variational Autoencoders from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture9-vae-ink.pdf)
-
 [Convolutional Variational Autoencoder with tensorflow, online Tensorflow page](https://www.tensorflow.org/tutorials/generative/cvae)
 
 [Introduction to Variational Autoencoders, Diedrik P. Kingma, Max Welling, 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/An_Introduction_to_Variational_Autoencoders_Kingma_2019.pdf)
@@ -219,6 +217,8 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 [Auto-Encoding Variational Bayes, Diedrik P. Kingma, Max Welling, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Auto-Encoding_Variational_Bayes_Kingma_2022.pdf)
 
 [The Sparse Autoencoder, Andrew Ng, Lecture Notes CS294A](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/sparseAutoencoder_AndrewNg_LectureNotes.pdf)
+
+[Lecture 9 on Variational Autoencoders from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture9-vae-ink.pdf)
 
 
 ### The Diffusion Transformer
