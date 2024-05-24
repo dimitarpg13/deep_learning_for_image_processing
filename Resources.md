@@ -167,6 +167,16 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Transforming Auto-encoders, G. Hinton, A. Krizhevsky, et al., 2011](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TransformingAutoencodersHinton.pdf)
 
+### Variational Inference
+
+[Variational Inference: Foundations and Innovations, David Blei, Columbia U., slides, 2018](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Blei_Variational_Inference_tutorial_slides_2018.pdf)
+
+[Variational Inference: A Review for Statisticians, David Blei et al, Columbia U., 2018](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Variational_Inference-A_Review_for_Statisticians_David_Blei_2018.pdf)
+
+[Automatic Variational Inference in Stan, Alp Kucukelbir et al, Columbia U., 2018 ](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Automatic_Variational_Inference_in_Stan_Kucukelbir_Columbia_2015.pdf)
+
+[Lecture 8 Diffusion Modeling + Variational Inference from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture8-diffusion-ink.pdf)
+
 ### Generative models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
