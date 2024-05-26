@@ -268,7 +268,9 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [KTO: Model Alignment as Prospect Theoretic Optimization, K. Ethayarajh et al, Stanford U., 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/KTO-Model_Alignment_as_Prospect_Theoretic_Optimization_Ethayaragh_2023.pdf)
 
-[](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/ORPO-Monolithic_Preference_Optimization_without_Reference_Model_Hong_2024.pdf)
+[ORPO: Monolithic Preference Optimization without Reference Model, Hong, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/ORPO-Monolithic_Preference_Optimization_without_Reference_Model_Hong_2024.pdf)
+
+[Lecture 9 on RLHF from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture12-rlhf-ink.pdf)
 
 
 ### classes, class notes, tutorials and videos
