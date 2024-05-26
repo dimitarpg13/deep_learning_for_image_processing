@@ -270,7 +270,7 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [ORPO: Monolithic Preference Optimization without Reference Model, Hong, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/ORPO-Monolithic_Preference_Optimization_without_Reference_Model_Hong_2024.pdf)
 
-[Lecture 9 on RLHF from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture12-rlhf-ink.pdf)
+[Lecture 12 on RLHF from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture12-rlhf-ink.pdf)
 
 
 ### classes, class notes, tutorials and videos
