@@ -241,6 +241,36 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [Diffusion Transformer (DiT) Models: A Beginner’s Guide, Akruti Acharya, March 18, 2024](https://encord.com/blog/diffusion-models-with-transformers/)
 
+### Reinforcement Learning from Human Feedback (RLHF) 
+
+[Deep Reinforcement Learnng from Human Preferences, Paul Christiano et al, OpenAI, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/Deep_reinforcement_learning_from_human_preferences_Paul_Christiano_OpenAI_2017.pdf)
+
+[Training Language Models to Follow Instructions With Human Feedback, L. Ouyang et al, OpenAI, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/Training_language_models_to_follow_instructions_with_human_feedback_Ouyang_OpenAI_2022.pdf)
+
+[Fine Tuning Language Models from Human Preferences, Daniel M. Ziegler et al, OpenAI, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/Fine-Tuning_Language_Models_from_Human_Preferences_Ziegler_OpenAI_2020.pdf)
+
+[Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback, Y. Bai et al, Anthropic, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/Training_a_Helpful_and_Harmless_Assistant_with_Reinforcement_Learning_from_Human_Feedback_Bai_Anthropic_2022.pdf)
+
+[Learning to Summarize from Human Feedback, Nisan Stiennon et al, OpenAI, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/Learning_to_summarize_from_human_feedback_Stiennon_OpenAI_2020.pdf)
+
+[Illustrating Reinforcement Learning from Human Feedback (RLHF), Hugging Face article, 2022, Nathan Lambert, Louis Castricato, Leandro von Werra
+, Alex Havrilla](https://huggingface.co/blog/rlhf)
+
+[Learning from human preferences, Dario Amodei, OpenAI blog, 2017](https://openai.com/index/learning-from-human-preferences)
+
+[Reinforcement Learning fro Human Feedback, Wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
+
+[A General Theoretical Paradygm to Understand Learning from Human Preferences, M. Azar et al, Google DeepMind, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/A_General_Theoretical_Paradigm_to_Understand_Learning_from_Human_Preferences_Azar_2023.pdf)
+
+[Direct Preference Optimization: Your Language Model is Secretly a Reward Model, Rafel Rafailov et al, Stanford U., 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/Direct_Preference_Optimization-Your_Language_Model_is_Secretly_a_Reward_Model_Rafailov_Stanford_2023.pdf)
+
+[SLiC-HF: Sequence Likelihood Calibration with Human Feedback, Y. Zhao et al, Google Deepmind, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/SLiC-HF-Sequence_Likelihood_Calibration_with_Human_Feedback_Zhao_Google_2023.pdf)
+
+[KTO: Model Alignment as Prospect Theoretic Optimization, K. Ethayarajh et al, Stanford U., 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/KTO-Model_Alignment_as_Prospect_Theoretic_Optimization_Ethayaragh_2023.pdf)
+
+[](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/ORPO-Monolithic_Preference_Optimization_without_Reference_Model_Hong_2024.pdf)
+
+
 ### classes, class notes, tutorials and videos
 
 [CS231n: Convolutional Neural Networks for Image Recognition: Stanford CS class](https://cs231n.github.io/)
