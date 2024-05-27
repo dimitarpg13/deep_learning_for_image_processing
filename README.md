@@ -2,8 +2,6 @@
 
 this repo is a work in progress.
 
-Various resources on these topics: [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/Resources.md)
-
 ## Selected Topics in Machine Learning
  
  * [Reinforcement Learning and Game Theory](https://github.com/dimitarpg13/reinforcement_learning_and_game_theory/blob/main/ReinforcementLearningAndGameTheoryResources.md)
