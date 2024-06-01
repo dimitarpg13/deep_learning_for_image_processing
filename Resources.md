@@ -14,13 +14,15 @@
 
 ## articles
 
-### Semantic Segmentation
+### Problems in Image Recongition and Machine Vision
+
+#### Semantic Segmentation
 
 [R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
 
 [Highly Accurate Dichotomous Image Segmentation, Xuebin Qin et al, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/Highly_Accurate_Dichotomous_Image_Segmentation_Qin_2022.pdf)
 
-### Anomaly Detection
+#### Anomaly Detection
 
 [Exploring EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies: A Brief Overview, Vincent Liu, 2024](https://medium.com/towards-artificial-intelligence/exploring-efficientad-accurate-visual-anomaly-detection-at-millisecond-level-latencies-a-brief-3b22b70f886b)
 
@@ -28,11 +30,13 @@
 
 related repo: https://github.com/openvinotoolkit/anomalib
 
-### CNNs
+### Models and Neural Architectures
+
+#### CNNs
 
 [ImageNet Classification with Deep Convolutional Neural Nets, Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton, NIPS, 2012](https://github.com/dimitarpg13/deep_learning_for_image_processing/tree/main/literature/articles/cnn)
 
-#### Deconstructing Convolutional Neural Networks
+##### Deconstructing Convolutional Neural Networks
 
 [Feature Visualization, Chris Olah et al, OpenAI, 2017](https://distill.pub/2017/feature-visualization/) 
 
@@ -74,11 +78,11 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [What Causes Polysemanticity? An Alternative Origin Story of Mixed Selectivity from Incidental Causes, Anonymous](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/What_Causes_Polysemanticity_An_Alternative_Origin_Story_of_Mixed_Selectivity_From_Incidental_Causes.pdf)
 
-#### Singular Neural Networks
+##### Singular Neural Networks
 
 [Why Your Neural Network is Still Singular and What You Can Do About It, Jakub Dworakowski, Pablo Rodriguez Bertorello, Stanford U., 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/interpretability/Why_Your_Neural_Network_is_Still_Singular_and_What_You_Can_Do_About_It_Dworakowski_2019.pdf)
 
-##### [Distiling Singular Learning Theory](https://www.lesswrong.com/s/czrXjvCLsqGepybHC)
+###### [Distiling Singular Learning Theory](https://www.lesswrong.com/s/czrXjvCLsqGepybHC)
 
 [Distilling Singular Learning Theory, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/xRWsfGfvDAjRWXcnG)
 
@@ -90,7 +94,7 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Phase Transitions in Neural Networks, Liam Carroll, June 2023](https://www.lesswrong.com/s/czrXjvCLsqGepybHC/p/aKBAYN5LpaQMrPqMj)
 
-### Autoencoders
+#### Autoencoders
 
 [Neural Networks: Unleashing the Power of Latent Space Compression by Julien Pascal, May 2023, Medium](https://medium.com/@julien.pascal/neural-networks-unleashing-the-power-of-latent-space-compression-2c8630f6f6cc)
 
@@ -106,7 +110,7 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Tutorial On Principal Component Analysis, Jonathon Shlens, Google Research, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Tutorial_on_Principal_Component_Analysis_Shlens_Google_2014.pdf)
 
-### LSTM, RNNs and Seq2Seq Modeling
+#### LSTM, RNNs and Seq2Seq Modeling
 
 [Long Short-Term Memory, Sepp Hochreiter et al., 1997](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/LongShortTermMemory.pdf)
 
@@ -128,7 +132,7 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/UnderstandingLSTMNetworks-colahsblog.pdf)
 
-### Transformers
+#### Transformers
 
 [A Mathematical Framework for Transformer Circuits, Nelson Elhage et al, Anthropic, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/A_Mathematical_Framework_for_Transformer_Circuits_Elhage_Anthropic_2021.pdf)
 
@@ -160,7 +164,7 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Lecture 2 on Transformers from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture2-transformer-ink.pdf)
 
-### Generative models
+#### Generative models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 
@@ -194,7 +198,7 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Lecture 7 on Transformers from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture7-diffusion-ink.pdf)
 
-### Variational Inference
+#### Variational Inference
 
 [Variational Inference: Foundations and Innovations, David Blei, Columbia U., slides, 2018](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_inference/Blei_Variational_Inference_tutorial_slides_2018.pdf)
 
@@ -208,7 +212,7 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 Python library containing Variational Inference algorithms such as ADVI : [PyMC](https://github.com/pymc-devs/pymc/tree/main)
 
-### Variational Autoencoders
+#### Variational Autoencoders
 
 [Intuitively Understanding Variational Autoencoders, Irhum Shafkat, Towards Data Science, 2018](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
 
@@ -233,7 +237,7 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 [Lecture 9 on Variational Autoencoders from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture9-vae-ink.pdf)
 
 
-### The Diffusion Transformer
+#### The Diffusion Transformer
 
 [Scalable Diffusion Models with Transformers, William Peebles, UC Berkeley, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/diffusion_transformer/Scalable_Diffusion_Models_with_Transformers_Peebles_2022.pdf)
 
@@ -249,7 +253,7 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [Diffusion Transformer (DiT) Models: A Beginner’s Guide, Akruti Acharya, March 18, 2024](https://encord.com/blog/diffusion-models-with-transformers/)
 
-### Reinforcement Learning from Human Feedback (RLHF) 
+#### Reinforcement Learning from Human Feedback (RLHF) 
 
 [Deep Reinforcement Learnng from Human Preferences, Paul Christiano et al, OpenAI, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/Deep_reinforcement_learning_from_human_preferences_Paul_Christiano_OpenAI_2017.pdf)
 
