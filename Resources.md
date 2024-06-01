@@ -293,7 +293,7 @@ slides for the class: [slides](https://www.cs.cmu.edu/~mgormley/courses/10423//s
 
 ##### 2023
 
-[MIT Introduction to Deep Learning 6.S191: Lecture 1](https://youtu.be/QDX-1M5Nj7s?si=Qm8KP_zQ6OPxl0Dg)
+[MIT 6.S191 (2023): Introduction to Deep Learning](https://youtu.be/QDX-1M5Nj7s?si=Qm8KP_zQ6OPxl0Dg)
 
 [MIT 6.S191 (2023): Recurrent Neural Networks, Transformers, and Attention](https://youtu.be/ySEx_Bqxvvo?si=SbIq3k9v5-DLfBkd)
 
