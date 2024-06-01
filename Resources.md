@@ -24,9 +24,9 @@
 
 #### Anomaly Detection
 
-[Exploring EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies: A Brief Overview, Vincent Liu, 2024](https://medium.com/towards-artificial-intelligence/exploring-efficientad-accurate-visual-anomaly-detection-at-millisecond-level-latencies-a-brief-3b22b70f886b)
+[Exploring EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies: A Brief Overview, Vincent Liu, Medium, 2024](https://medium.com/towards-artificial-intelligence/exploring-efficientad-accurate-visual-anomaly-detection-at-millisecond-level-latencies-a-brief-3b22b70f886b)
 
-[Anomalib v1.0.1: Unveiling Anomaly Detection on Plastic Surfaces, Vincent Liu, 2024](https://medium.com/ai-advances/anomalib-v1-0-1-unveiling-anomaly-detection-on-plastic-surfaces-c91cd48d8806)
+[Anomalib v1.0.1: Unveiling Anomaly Detection on Plastic Surfaces, Vincent Liu, Medium, 2024](https://medium.com/ai-advances/anomalib-v1-0-1-unveiling-anomaly-detection-on-plastic-surfaces-c91cd48d8806)
 
 related repo: https://github.com/openvinotoolkit/anomalib
 
@@ -196,7 +196,9 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
 
-[Lecture 7 on Transformers from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture7-diffusion-ink.pdf)
+[Lecture 7 on Diffusion Models from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture7-diffusion-ink.pdf)
+
+[Will Diffusion Models Be The Next Frontier of Deep Learning, Devansh, Medium, 2024](https://medium.datadriveninvestor.com/will-diffusion-models-be-the-next-frontier-of-deep-learning-7172bea88581)
 
 #### Variational Inference
 
