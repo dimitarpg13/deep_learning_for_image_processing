@@ -275,10 +275,40 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 ### classes, class notes, tutorials and videos
 
+#### Stanford CS231n
+
 [CS231n: Convolutional Neural Networks for Image Recognition: Stanford CS class](https://cs231n.github.io/)
 
 github repo: https://github.com/cs231n/cs231n.github.io
 
+#### CMU CS 10-423
+
 [CMU CS 10-423 GenAI class taught in Jan-Feb 2024](https://www.cs.cmu.edu/~mgormley/courses/10423/)
 
 slides for the class: [slides](https://www.cs.cmu.edu/~mgormley/courses/10423//slides/)
+
+#### MIT 6.S191
+
+[MIT 6.S191: Introduction to Deep Learning, Alexander Amini, years 2020-2023 playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+
+##### 2023
+
+[MIT Introduction to Deep Learning 6.S191: Lecture 1](https://youtu.be/QDX-1M5Nj7s?si=Qm8KP_zQ6OPxl0Dg)
+
+[MIT 6.S191 (2023): Recurrent Neural Networks, Transformers, and Attention](https://youtu.be/ySEx_Bqxvvo?si=SbIq3k9v5-DLfBkd)
+
+[MIT 6.S191 (2023): Convolutional Neural Networks](https://youtu.be/NmLK_WQBxB4?si=GfN-qRZv6v8khUDQ)
+
+[MIT 6.S191 (2023): Deep Generative Modeling](https://youtu.be/3G5hWM6jqPk?si=6JIf22lq6OZRVRug)
+
+[MIT 6.S191 (2023): Robust and Trustworthy Deep Learning](https://youtu.be/kIiO4VSrivU?si=TYECVR6XdMQCiacD)
+
+[MIT 6.S191 (2023): Reinforcement Learning](https://youtu.be/AhyznRSDjw8?si=7zxmeXOSfMqmZmFt)
+
+[MIT 6.S191 (2023): Deep Learning New Frontiers](https://youtu.be/FHeCmnNe0P8?si=i3hzp5bV8PxsSQPe)
+
+[MIT 6.S191 (2023): Text-to-Image Generation](https://youtu.be/SA-v6Op2kL4?si=5qwJLgj-XQlHrJHx)
+
+[MIT 6.S191 (2023): The Modern Era of Statistics](https://youtu.be/p1NpGC8K-vs?si=FRtxclYFylxYwtvB)
+
+[MIT 6.S191 (2023): The Future of Robot Learning](https://youtu.be/WHvWSYKGMDQ?si=e3MtKxw_20HaLtPm)
