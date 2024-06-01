@@ -20,6 +20,14 @@
 
 [Highly Accurate Dichotomous Image Segmentation, Xuebin Qin et al, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/Highly_Accurate_Dichotomous_Image_Segmentation_Qin_2022.pdf)
 
+### Anomaly Detection
+
+[Exploring EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies: A Brief Overview, Vincent Liu, 2024](https://medium.com/towards-artificial-intelligence/exploring-efficientad-accurate-visual-anomaly-detection-at-millisecond-level-latencies-a-brief-3b22b70f886b)
+
+[Anomalib v1.0.1: Unveiling Anomaly Detection on Plastic Surfaces, Vincent Liu, 2024](https://medium.com/ai-advances/anomalib-v1-0-1-unveiling-anomaly-detection-on-plastic-surfaces-c91cd48d8806)
+
+related repo: https://github.com/openvinotoolkit/anomalib
+
 ### CNNs
 
 [ImageNet Classification with Deep Convolutional Neural Nets, Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton, NIPS, 2012](https://github.com/dimitarpg13/deep_learning_for_image_processing/tree/main/literature/articles/cnn)
