@@ -1,3 +1,6 @@
 [submodule "src/image_segmentation/dichotomous_image_segmentation"]
 	path = src/image_segmentation/dichotomous_image_segmentation
 	url = https://github.com/dimitarpg13/dichotomous_image_segmentation.git
+[submodule "src/image_classification/cnn_image_classification"]
+	path = src/image_classification/cnn_image_classification
+	url = https://github.com/dimitarpg13/cnn_image_classification.git
