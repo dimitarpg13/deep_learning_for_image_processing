@@ -226,6 +226,12 @@ as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_proc
 
 [Variational AutoEncoders (VAE) with PyTorch, Alexander Van de Kleut (online blog)](https://avandekleut.github.io/vae/)
 
+[VAEs in Reinforcement Learning, Nicholsonjm, Medium, 2024](https://medium.com/@nicholsonjm92/vaes-in-reinforcement-learning-932fc2df7026)
+
+related Gym environment: https://gymnasium.farama.org/environments/mujoco/swimmer/
+
+related paper: [Variational State Encoding as Intrinsic Motivation in Reinforcement Learning, Martin Klissarov et al, McGill, ICLR 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Variational_State_Encoding_as_Intrinsic_Motivation_in_Reinforcement_Learning_Klissarov_McGill_2019.pdf)
+
 [Tutorial on Variational Autoencoders, Carl Doersch, Carnegie Mellon, UC Berkeley, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Tutorial_on_Variational_Autoencoders_Doersch_2021.pdf)
 
 [Convolutional Variational Autoencoder with tensorflow, online Tensorflow page](https://www.tensorflow.org/tutorials/generative/cvae)
