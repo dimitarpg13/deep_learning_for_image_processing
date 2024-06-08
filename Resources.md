@@ -150,6 +150,8 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [The Illustrated Transformer, Jay Alamar's blog, 2021](https://jalammar.github.io/illustrated-transformer/)
 
+[Understanding Transformer Reasoning Capabilities via Graph Algorithms, Clayton Sanford et al, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Understanding_Transformer_Reasoning_Capabilities_via_Graph_Algorithms_Sanford_2024.pdf)
+
 as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheIllustratedTransformer%E2%80%93JayAlammar%E2%80%93Visualizing_machine_learning_one_concept_at_a_time.pdf)
 
 [The Transformer - Attention Is All You Need - Michal Chromiak's blog, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheTransformer%E2%80%93Attentionisallyouneed-Micha%C5%82Chromiaksblog.pdf)
