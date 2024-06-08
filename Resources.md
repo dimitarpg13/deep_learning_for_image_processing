@@ -150,8 +150,6 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [The Illustrated Transformer, Jay Alamar's blog, 2021](https://jalammar.github.io/illustrated-transformer/)
 
-[Understanding Transformer Reasoning Capabilities via Graph Algorithms, Clayton Sanford et al, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Understanding_Transformer_Reasoning_Capabilities_via_Graph_Algorithms_Sanford_2024.pdf)
-
 as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheIllustratedTransformer%E2%80%93JayAlammar%E2%80%93Visualizing_machine_learning_one_concept_at_a_time.pdf)
 
 [The Transformer - Attention Is All You Need - Michal Chromiak's blog, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TheTransformer%E2%80%93Attentionisallyouneed-Micha%C5%82Chromiaksblog.pdf)
@@ -163,6 +161,8 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 [An Introduction to Transformers: an NLP Perspective, T. Xiao et al, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Intro-to-Transformers-Xiao-2023.pdf)
 
 [Transforming Auto-encoders, G. Hinton, A. Krizhevsky, et al., 2011](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/TransformingAutoencodersHinton.pdf)
+
+[Understanding Transformer Reasoning Capabilities via Graph Algorithms, Clayton Sanford et al, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Understanding_Transformer_Reasoning_Capabilities_via_Graph_Algorithms_Sanford_2024.pdf)
 
 [Lecture 2 on Transformers from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture2-transformer-ink.pdf)
 
