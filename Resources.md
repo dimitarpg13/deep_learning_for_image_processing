@@ -166,6 +166,10 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Lecture 2 on Transformers from CMU CS 10-423 (GenAI) given in Jan 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture2-transformer-ink.pdf)
 
+#### Alternative Architectures to Transformers
+
+[MLP-Mixer: An all-MLP Architecture for Vision, I. Tolstikhin et al, Google, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/mlp_mixers/MLP-Mixer-An_all-MLP_Architecture_for_Vision_Tolstikhin_Google_2021.pdf)
+
 #### Generative models
 
 [Introduction to Diffusion Models for Deep Learning, Ryan O'Connor, 2022 (online blog)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
