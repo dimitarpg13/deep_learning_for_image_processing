@@ -12,6 +12,8 @@
 
 (book site URL: https://udlbook.github.io/udlbook/)
 
+[Deep Learning for Computer Vision: Image Classification, Object Detection and Face Recognition in Python, Jason Brownlee, 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Deep_Learning_for_Computer_Vision-Image_Classification_Object_Detection_and_Face_Recognition_in_Python_by_Jason_Brownlee.pdf)
+
 ## articles
 
 ### Problems in Image Recongition and Machine Vision
