@@ -192,6 +192,8 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [On Error Propagation of Diffusion Models, Y. Li, Michaela van der Schaar, U of Cambridge, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/On_Error_Propagation_of_Diffusion_Models_Li_van_der_Schaar_2024.pdf)
 
+[Differential Diffusion: Giving Each Pixel Its Strength, Eran Levin, Ohad Fried, Tel Aviv University, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Differential_Diffusion-Giving_Each_Pixel_Its_Strength_Levin_2024.pdf)
+
 [Understanding Diffusion Models: Unified Perspective, Calvin Luo, Google Brain, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Understanding_Diffusion_Models-A_Unified_Perspective_Luo_GoogleBrain_2022.pdf)
 
 [Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
