@@ -210,6 +210,10 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
 
+[Reverse Time Stochastic Differential Equations for Generative Modeling, Ludwig Winkler, 2021](https://ludwigwinkler.github.io/blog/ReverseTimeAnderson/)
+
+[Reverse Time Diffusion Equation Models, Brian DO Anderson, U. of Newcastle, 1980](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/ReverseTimeDiffusionEquationModels_Anderson_1982.pdf)
+
 [Lecture 7 on Diffusion Models from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture7-diffusion-ink.pdf)
 
 [Will Diffusion Models Be The Next Frontier of Deep Learning, Devansh, Medium, 2024](https://medium.datadriveninvestor.com/will-diffusion-models-be-the-next-frontier-of-deep-learning-7172bea88581)
