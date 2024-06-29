@@ -234,6 +234,8 @@ Python library containing Variational Inference algorithms such as ADVI : [PyMC]
 
 as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Intuitively_Understanding_Variational_Autoencoders_Irhum_Shafkat_TDS.pdf)
 
+[Diffusion Models as a kind of VAE, Angus Turner, 2021, online article](https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html)
+
 [Understanding Variational Autoencoders by Joseph Rocca, Towards Data Science, Sept, 2019](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 
 as a pdf file [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/variational_autoencoders/Understanding_Variational_Autoencoders_Joseph_Rocca_TowardsDataScience.pdf)
