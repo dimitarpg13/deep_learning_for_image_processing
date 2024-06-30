@@ -224,6 +224,8 @@ as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processi
 
 [Denoising Diffusion Implicit Models, J. Song et al, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/denoising_diffusion_implicit_models_Song_Stanford_2021.pdf)
 
+[Sampling, Diffusion, and Stochastic Localization, Andrea Montanari, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Sampling_diffusions_and_stochastic_localization_Montanari_2023.pdf)
+
 [Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
 
 [Reverse Time Stochastic Differential Equations for Generative Modeling, Ludwig Winkler, 2021](https://ludwigwinkler.github.io/blog/ReverseTimeAnderson/)
