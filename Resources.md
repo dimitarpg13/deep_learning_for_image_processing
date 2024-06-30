@@ -202,6 +202,8 @@ as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processi
 
 [Differential Diffusion: Giving Each Pixel Its Strength, Eran Levin, Ohad Fried, Tel Aviv University, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Differential_Diffusion-Giving_Each_Pixel_Its_Strength_Levin_2024.pdf)
 
+[Consistency Models, Y. Song et al, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Consistency_Models_Song_2023.pdf)
+
 [Understanding Diffusion Models: Unified Perspective, Calvin Luo, Google Brain, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Understanding_Diffusion_Models-A_Unified_Perspective_Luo_GoogleBrain_2022.pdf)
 
 [Diffusion Models Beat GANs on Image Synthesis, Prafulla Dharival, Alex Nichol, OpenAI, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Diffusion_Models_Beat_GANs_on_Image_Synthesis_Dhariwal_2021.pdf)
