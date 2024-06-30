@@ -186,6 +186,10 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Building_Diffusion_Model_theory_from_ground_up_ICLR_Blogposts_2024.pdf)
 
+[Perspectives on Diffusion, Sander Dieleman, 2023](https://sander.ai/2023/07/20/perspectives.html)
+
+as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Perspectives_on_diffusion%E2%80%93Sander_Dieleman_2023.pdf)
+
 [Lightweight Diffusion Models: A Survey, W. Song et al, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Lightweight_Diffusion_Models_A_Survey_Song_2024.pdf)
 
 [Generative Modeling by Estimating Gradients of the Data Distribution, Yang Song, Stanford, 2021 (online blog)](https://yang-song.net/blog/2021/score/)
