@@ -184,7 +184,7 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Building Diffusion Model's theory from ground up, Ayan Das, ICRL blogposts, 2024](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
 
-    as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Building_Diffusion_Model_theory_from_ground_up_ICLR_Blogposts_2024.pdf)
+as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Building_Diffusion_Model_theory_from_ground_up_ICLR_Blogposts_2024.pdf)
 
 [Lightweight Diffusion Models: A Survey, W. Song et al, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Lightweight_Diffusion_Models_A_Survey_Song_2024.pdf)
 
