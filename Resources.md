@@ -182,6 +182,10 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Step-By-Step Diffusion: An Elementary Tutorial, P. Nakkiran et al, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/StepByStepDiffusionAnElementaryTutorial_Nakkiran_2024.pdf)
 
+[Building Diffusion Model's theory from ground up, Ayan Das, ICRL blogposts, 2024](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
+
+as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Building_Diffusion_Model_theory_from_ground_up_ICLR_Blogposts_2024.pdf)
+
 [Lightweight Diffusion Models: A Survey, W. Song et al, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Lightweight_Diffusion_Models_A_Survey_Song_2024.pdf)
 
 [Generative Modeling by Estimating Gradients of the Data Distribution, Yang Song, Stanford, 2021 (online blog)](https://yang-song.net/blog/2021/score/)
