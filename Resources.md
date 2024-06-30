@@ -234,6 +234,12 @@ as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processi
 
 [Reverse Time Diffusion Equation Models, Brian DO Anderson, U. of Newcastle, 1980](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/ReverseTimeDiffusionEquationModels_Anderson_1982.pdf)
 
+[On The Mathematics of Diffusion Models, David McAllester, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/On_the_Mathematics_of_Diffusion_Models_McAllester_2023.pdf)
+
+[Navier-Stokes, Fluid Dynamics, and Image and Video Inpainting, M. Bertalmio et al, 2001](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Navier-Stokes_Fluid_Dynamics_and_Image_and_Video_Inpainting_Bertalmio_2001.pdf)
+
+[An Image Inpainting Technique Based on the Fast Marching Method, A. Telea, 2004](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/An_Image_Inpainting_Technique_Based_on_the_Fast_Marching_Method_Telea_2004.pdf)
+
 [Lecture 7 on Diffusion Models from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture7-diffusion-ink.pdf)
 
 [Will Diffusion Models Be The Next Frontier of Deep Learning, Devansh, Medium, 2024](https://medium.datadriveninvestor.com/will-diffusion-models-be-the-next-frontier-of-deep-learning-7172bea88581)
