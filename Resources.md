@@ -228,6 +228,8 @@ as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processi
 
 [Sampling, Diffusion, and Stochastic Localization, Andrea Montanari, 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Sampling_diffusions_and_stochastic_localization_Montanari_2023.pdf)
 
+[Demystifying Variational Diffusion Models, Fabio De Sousa Ribeiro et al, Imperial College, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Demystifying_Variational_Diffusion_Models_Ribeiro_2024.pdf)
+
 [Score-Based Generative Modeling Through Stochastic Differential Equations, Y. Song et al, Stanford U., Google, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Score-Based_Generative_Modeling_Through_Stochastic_Differential_Equations_Song_Stanford_2021.pdf)
 
 [Improved Techniques for Training Score-Based Generative Models, Y. Song, S. Ermon, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Improved_Techniques_for_Training_Score-Based_Generative_Models_Song_2020.pdf)
