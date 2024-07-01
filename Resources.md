@@ -182,6 +182,8 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Step-By-Step Diffusion: An Elementary Tutorial, P. Nakkiran et al, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/StepByStepDiffusionAnElementaryTutorial_Nakkiran_2024.pdf)
 
+[Introduction to Flow Matching, Tor Fjelde, Emile Mathieu, Vincent Dutordoir, 2024 (online blog)](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+
 [Building Diffusion Model's theory from ground up, Ayan Das, ICRL blogposts, 2024](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
 
 as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Building_Diffusion_Model_theory_from_ground_up_ICLR_Blogposts_2024.pdf)
