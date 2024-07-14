@@ -246,6 +246,20 @@ as a pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processi
 
 [Lecture 7 on Diffusion Models from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture7-diffusion-ink.pdf)
 
+[Denoising Diffusion Model from scratch using PyTorch, Mickael Boillaud, 2024, Medium](https://medium.com/@mickael.boillaud/denoising-diffusion-model-from-scratch-using-pytorch-658805d293b4)
+
+as pdf: [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Denoising_Diffusion_Model_from_scratch_using_PyTorch_by_Mickael_Boillaud_Medium_2024.pdf)
+
+related repo: https://github.com/Camaltra/this-is-not-real-aerial-imagery/tree/main/src/ai
+
+related paper: [Denoising Diffusion Probabilistic Models, J. Ho et al, UC Berkeley, 2020](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/Denoising_Diffusion_Probabilistic_Models_Ho_UCBerkeley_2020.pdf)
+
+related paper: [ACC-UNet: A Completely Convolutional UNet model for the 2020s, Nabil Ibtehaz et al, Purdue U., 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/ACC_UNet_A_Completely_Convolutional_UNet_model_for_the_2020s_Ibtehaz_Purdue_2023.pdf)
+
+related paper: [A ConvNet for the 2020s, Z. Liu et al, Meta FAIR, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/A_ConvNet_for_the_2020s_Liu_FAIR_2022.pdf)
+
+related paper: [U-Net: Convolutional Networks for Biomedical Image Segmentation, Olaf Ronneberger et al, U. of Freiburg, 2015](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/generative_models/U_Net_Convolutional_Networks_for_Biomedical_Image_Segmentation_Ronneberger_2015.pdf)
+
 [Will Diffusion Models Be The Next Frontier of Deep Learning, Devansh, Medium, 2024](https://medium.datadriveninvestor.com/will-diffusion-models-be-the-next-frontier-of-deep-learning-7172bea88581)
 
 #### Variational Inference
