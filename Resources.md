@@ -32,6 +32,10 @@
 
 related repo: https://github.com/openvinotoolkit/anomalib
 
+#### Super-resolution models and methods
+
+[papers with code on the State-of-Art in super-resolution research](https://paperswithcode.com/task/image-super-resolution)
+
 ### Models and Neural Architectures
 
 #### CNNs
