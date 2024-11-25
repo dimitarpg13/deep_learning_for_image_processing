@@ -116,6 +116,8 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Tutorial On Principal Component Analysis, Jonathon Shlens, Google Research, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/autoencoders/Tutorial_on_Principal_Component_Analysis_Shlens_Google_2014.pdf)
 
+[Autoencoders: An Ultimate Guide for Data Scientists, Niklas Lang, Towards Data Science, 2024](https://towardsdatascience.com/autoencoders-an-ultimate-guide-for-data-scientists-dca3e56a070e)
+
 #### LSTM, RNNs and Seq2Seq Modeling
 
 [Long Short-Term Memory, Sepp Hochreiter et al., 1997](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/lstm_and_rnn/LongShortTermMemory.pdf)
