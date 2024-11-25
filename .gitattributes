@@ -72,3 +72,6 @@ literature/articles/outpainting/Outpainting_by_Queries_Yao_2022.pdf filter=lfs d
 literature/articles/superresolution/DRCT-Saving_Image_Super-Resolution_away_from_Information_Bottleneck_Hsu_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/superresolution/HMANet-Hybrid_Multi-Axis_Aggregation_Network_for_Image_Super-Resolution_Chu_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/superresolution/WAVEMIXSR-V2-Enhancing_Super-Resolution_with_Higher_Efficiency_Jeevan_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/Lecture_notes_theory_deep_learning.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Theory_of_Deep_Learning_Sanjeev_Arora.pdf filter=lfs diff=lfs merge=lfs -text
