@@ -4,6 +4,10 @@
 
 [Computer Vision: Algorithms and Applications, 2nd ed, Richard Szeliski, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Computer_Vision-Algorithms_and_Applications_2nd_Edition_Richard_Szeliski_2022.pdf)
 
+[Pattern Recognition and Machine Learning, Christopher Bishop, 2006](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Bishop-Pattern_Recognition_and_Machine_Learning.pdf)
+
+[Deep Learning: Foundations and Concepts, Christopher Bishop, Hugh Bishop, Cambridge, UK, 2023, online viewing only](https://issuu.com/cmb321/docs/deep_learning_ebook)
+
 [Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Aston Zhang, Zachary Lipton, Mu Li, Alexander Smola, online version](https://d2l.ai/index.html)
 
 [Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville, 2016](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/deeplearning_latest_edition.pdf)
