@@ -4,6 +4,10 @@
 
 [Computer Vision: Algorithms and Applications, 2nd ed, Richard Szeliski, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Computer_Vision-Algorithms_and_Applications_2nd_Edition_Richard_Szeliski_2022.pdf)
 
+[Pattern Recognition and Machine Learning, Christopher Bishop, 2006](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Bishop-Pattern_Recognition_and_Machine_Learning.pdf)
+
+[Deep Learning: Foundations and Concepts, Christopher Bishop, Hugh Bishop, Cambridge, UK, 2023, online viewing only](https://issuu.com/cmb321/docs/deep_learning_ebook)
+
 [Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Aston Zhang, Zachary Lipton, Mu Li, Alexander Smola, online version](https://d2l.ai/index.html)
 
 [Deep Learning, Ian Goodfellow, Yoshua Bengio, Aaron Courville, 2016](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/deeplearning_latest_edition.pdf)
@@ -14,7 +18,13 @@
 
 [Deep Learning for Computer Vision: Image Classification, Object Detection and Face Recognition in Python, Jason Brownlee, 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Deep_Learning_for_Computer_Vision-Image_Classification_Object_Detection_and_Face_Recognition_in_Python_by_Jason_Brownlee.pdf)
 
+[The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
+
+[Theory of Deep Learning, Sanjeev Arora, Princeton U., 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Theory_of_Deep_Learning_Sanjeev_Arora.pdf)
+
 ## articles
+
+[Selected Theoretical Aspects of Machine Learning and Deep Learning, Francois Bachoc, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/Lecture_notes_theory_deep_learning.pdf)
 
 ### Problems in Image Recongition and Machine Vision
 
