@@ -14,7 +14,13 @@
 
 [Deep Learning for Computer Vision: Image Classification, Object Detection and Face Recognition in Python, Jason Brownlee, 2019](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Deep_Learning_for_Computer_Vision-Image_Classification_Object_Detection_and_Face_Recognition_in_Python_by_Jason_Brownlee.pdf)
 
+[The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks, Daniel A. Roberts, Sho Yaida, Boris Hanin, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/The_Principles_of_Deep_Learning_Theory_Roberts_2021.pdf)
+
+[Theory of Deep Learning, Sanjeev Arora, Princeton U., 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Theory_of_Deep_Learning_Sanjeev_Arora.pdf)
+
 ## articles
+
+[Selected Theoretical Aspects of Machine Learning and Deep Learning, Francois Bachoc, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/Lecture_notes_theory_deep_learning.pdf)
 
 ### Problems in Image Recongition and Machine Vision
 
