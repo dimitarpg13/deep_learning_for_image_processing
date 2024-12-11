@@ -28,11 +28,12 @@
 
 ### Problems in Image Recongition and Machine Vision
 
-#### Semantic Segmentation
-
+#### Semantic Representations 
 [R-CNN: Rich Feature Hierarchies for Accurate Object Detection, Ross Girshick et al, UC Berkeley, 2014](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/RCNN_RichFeatureHierarchiesForAccurateObjectDetection.pdf)
 
 [Highly Accurate Dichotomous Image Segmentation, Xuebin Qin et al, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/semantic_segmentation/Highly_Accurate_Dichotomous_Image_Segmentation_Qin_2022.pdf)
+
+[Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture, Mahmoud Assran et al, MetaAI (FAIR), 2023](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/I-JEPA/Self-Supervised_Learning_from_Images_with_a_Joint-Embedding_Predictive_Architecture_Assran_MetaAI_2023.pdf)
 
 #### Anomaly Detection
 
