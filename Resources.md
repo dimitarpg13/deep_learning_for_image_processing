@@ -344,6 +344,9 @@ related paper: [Variational State Encoding as Intrinsic Motivation in Reinforcem
 
 #### Reinforcement Learning from Human Feedback (RLHF) 
 
+[A Little Bit of Reinforcement Learning from Human Feedback: A short introduction to RLHF and post-training focused on
+language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/A_Little_Bit_of_Reinforcement_Learning_from_Human_Feedback_Lambert_2025.pdf)
+
 [Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities, Carl Orge Retzlaff et al, 2024](literature/articles/rlhf/Human-in-the-Loop_Reinforcement_Learning_A_Survey_and_Position_on_Requirements_Challenges_and_Opportunities_Retzlaff_2024.pdf)
 
 [Deep Reinforcement Learnng from Human Preferences, Paul Christiano et al, OpenAI, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/Deep_reinforcement_learning_from_human_preferences_Paul_Christiano_OpenAI_2017.pdf)
