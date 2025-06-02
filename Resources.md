@@ -378,7 +378,7 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/deep_learn
 
 [Lecture 12 on RLHF from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture12-rlhf-ink.pdf)
 
-# Applications of deep learning methods and LLM-based agentic research for signal/image-processing applications
+### Applications of deep learning methods and LLM-based agentic research for signal/image-processing applications
 
 paper:
 [DensePose From WiFi, Jiaqi Geng et al, CMU, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/hardware_apps/DensePose_From_WiFi_Geng_2022.pdf)
