@@ -380,6 +380,8 @@ language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/deep_learn
 
 ### Applications of deep learning methods and LLM-based agentic research for signal/image-processing applications
 
+Linkedin post: [Reuven Cohen, 6/1/2025](https://www.linkedin.com/posts/reuvencohen_in-less-than-a-hour-using-the-new-perplexity-activity-7335073281504366594-cBIq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFZfUoBgPoGUucdnvtwuzPv79P8VHj6uvk)
+
 paper:
 [DensePose From WiFi, Jiaqi Geng et al, CMU, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/hardware_apps/DensePose_From_WiFi_Geng_2022.pdf)
 
