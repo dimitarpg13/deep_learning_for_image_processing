@@ -344,6 +344,9 @@ related paper: [Variational State Encoding as Intrinsic Motivation in Reinforcem
 
 #### Reinforcement Learning from Human Feedback (RLHF) 
 
+[A Little Bit of Reinforcement Learning from Human Feedback: A short introduction to RLHF and post-training focused on
+language models. Nathan Lambert, 2025](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/A_Little_Bit_of_Reinforcement_Learning_from_Human_Feedback_Lambert_2025.pdf)
+
 [Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities, Carl Orge Retzlaff et al, 2024](literature/articles/rlhf/Human-in-the-Loop_Reinforcement_Learning_A_Survey_and_Position_on_Requirements_Challenges_and_Opportunities_Retzlaff_2024.pdf)
 
 [Deep Reinforcement Learnng from Human Preferences, Paul Christiano et al, OpenAI, 2017](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/Deep_reinforcement_learning_from_human_preferences_Paul_Christiano_OpenAI_2017.pdf)
@@ -374,6 +377,19 @@ related paper: [Variational State Encoding as Intrinsic Motivation in Reinforcem
 [ORPO: Monolithic Preference Optimization without Reference Model, Hong, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/rlhf/ORPO-Monolithic_Preference_Optimization_without_Reference_Model_Hong_2024.pdf)
 
 [Lecture 12 on RLHF from CMU CS 10-423 (GenAI) given in Feb 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/lectures/CMU_GenAI_10-423_2024/lecture12-rlhf-ink.pdf)
+
+### Applications of deep learning methods and LLM-based agentic research for signal/image-processing applications
+
+Linkedin post: [Reuven Cohen, 6/1/2025](https://www.linkedin.com/posts/reuvencohen_in-less-than-a-hour-using-the-new-perplexity-activity-7335073281504366594-cBIq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAFZfUoBgPoGUucdnvtwuzPv79P8VHj6uvk)
+
+paper:
+[DensePose From WiFi, Jiaqi Geng et al, CMU, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/hardware_apps/DensePose_From_WiFi_Geng_2022.pdf)
+
+UI:
+[InvisiPose UI](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/128ed0182e73b2cbba51088d48a453a2/2e1df9f6-5c5a-4d3b-bbd8-51582d134357/index.html)
+
+Perplexity Labs:
+[link](https://www.perplexity.ai/search/create-full-implementation-of-g.TC1JIZQvWAifx85LpUcg?0=d&1=d#1)
 
 
 ### classes, class notes, tutorials and videos
