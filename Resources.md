@@ -161,6 +161,8 @@ as pdf [here](https://github.com/dimitarpg13/deep_learning_for_image_processing/
 
 [Do Vision Transformers See Like Convolutional Neural Networks? M. Raghu, Google Brain, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/Do_Vision_Transformers_See_Like_Convolutional_Neural_Networks_Raghu_GoogleBrain_2021.pdf)
 
+[From Colors to Classes: Emergence of Concepts in Vision Transformers, Teresa Dorszewski et al, 2025](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/From_Colors_to_Classes-Emergence_of_Concepts_in_Vision_Transformers_Dorszewski_2025.pdf)
+
 [How Do Vision Transformers Work? N. Park et al, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/transformers/How_Do_Vision_Transformers_Work_Park_2022.pdf)
 
 [The Annotated Transformer - delving into Vaswani's paper "Attention Is All You Need", 2018](https://nlp.seas.harvard.edu/annotated-transformer/)
