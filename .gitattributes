@@ -80,3 +80,4 @@ literature/articles/rlhf/A_Little_Bit_of_Reinforcement_Learning_from_Human_Feedb
 literature/articles/transformers/From_Colors_to_Classes-Emergence_of_Concepts_in_Vision_Transformers_Dorszewski_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/hardware_apps/DensePose_From_WiFi_Geng_2022.pdf filter=lfs diff=lfs merge=lfs -text
 Learning_Transferable_Visual_Models_From_Natural_Language_Supervision_Radford_2021.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/CLIP/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision_Radford_2021.pdf filter=lfs diff=lfs merge=lfs -text
