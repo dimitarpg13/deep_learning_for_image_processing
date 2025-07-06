@@ -393,6 +393,13 @@ UI:
 Perplexity Labs:
 [link](https://www.perplexity.ai/search/create-full-implementation-of-g.TC1JIZQvWAifx85LpUcg?0=d&1=d#1)
 
+#### OpenAI's CLIP
+
+[CLIP: Connecting text and images, OpenAI blog, 2021](https://openai.com/index/clip/)
+
+[Learning Transferable Visual Models From Natural Language Supervision, Alec Radford et al, OpenAI, 2021](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/CLIP/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision_Radford_2021.pdf)
+
+github repo: https://github.com/openai/CLIP
 
 ### classes, class notes, tutorials and videos
 
