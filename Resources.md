@@ -401,6 +401,9 @@ Perplexity Labs:
 
 github repo: https://github.com/openai/CLIP
 
+[Faster Image2Video Generation: A Closer Look at CLIP Image Embedding’s Impact on Spatio-Temporal Cross-Attentions
+, Ashkan Taghipour et al, 2024](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/articles/CLIP/Faster_Image2Video_Generation-A_Closer_Look_at_CLIP_Image_Embeddings_Impact_on_Spatio-Temporal_Cross-Attentions_Taghipour_2024.pdf)
+
 ### classes, class notes, tutorials and videos
 
 #### Stanford CS231n
