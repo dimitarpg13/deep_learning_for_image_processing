@@ -82,3 +82,4 @@ literature/articles/hardware_apps/DensePose_From_WiFi_Geng_2022.pdf filter=lfs d
 Learning_Transferable_Visual_Models_From_Natural_Language_Supervision_Radford_2021.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/CLIP/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision_Radford_2021.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/CLIP/Faster_Image2Video_Generation-A_Closer_Look_at_CLIP_Image_Embeddings_Impact_on_Spatio-Temporal_Cross-Attentions_Taghipour_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Deep_Learning_for_Computer_Vision_Barak_Or_2026.pdf filter=lfs diff=lfs merge=lfs -text
