@@ -2,6 +2,8 @@
 
 ## books 
 
+[Deep Learning for Computer Vision: A Practitioner's Guide, Barak Or, 2026](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Deep_Learning_for_Computer_Vision_Barak_Or_2026.pdf)
+
 [Computer Vision: Algorithms and Applications, 2nd ed, Richard Szeliski, 2022](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Computer_Vision-Algorithms_and_Applications_2nd_Edition_Richard_Szeliski_2022.pdf)
 
 [Pattern Recognition and Machine Learning, Christopher Bishop, 2006](https://github.com/dimitarpg13/deep_learning_for_image_processing/blob/main/literature/books/Bishop-Pattern_Recognition_and_Machine_Learning.pdf)
